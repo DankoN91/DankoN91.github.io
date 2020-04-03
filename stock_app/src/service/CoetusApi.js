@@ -1,24 +1,27 @@
 import axios from 'axios';
 
-const loginUser = async () => {
+const loginUser = async (username,password) => {
     await axios.post('https://coetus.herokuapp.com/api/users', {
-        username:'',
-        password:''
+        username:username,
+        password:password
     }).then(response => {
-        console.log(response.data);
+        window.localStorage.setItem("stockAppToken",response.token);
+        
+        console.log(response.data)
     }).catch(error => {
         console.log(error)
     })
 }
 
-const registerUser = async () => {
+const registerUser = async (name,surname,username,email,password) => {
     await axios.put('https://coetus.herokuapp.com/api/users', {
-        name:'',
-        surname:'',
-        username:'',
-        password:'',
-        email:''   
-    }).then(response => {
+        name:name,
+        surname:surname,
+        username:username,
+        email:email,
+        password:password
+    })
+    .then(response => {
         console.log(response.data);
     }).catch(error => {
         console.log(error)
