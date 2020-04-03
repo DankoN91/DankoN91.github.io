@@ -2,7 +2,6 @@
   "name": "stock_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dankon91.github.io/StockApp/",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@testing-library/jest-dom": "^4.2.4",
