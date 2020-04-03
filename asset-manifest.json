@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/stockapp/static/js/main.8a0a9fea.chunk.js",
-    "main.js.map": "/stockapp/static/js/main.8a0a9fea.chunk.js.map",
-    "runtime-main.js": "/stockapp/static/js/runtime-main.8ef28120.js",
-    "runtime-main.js.map": "/stockapp/static/js/runtime-main.8ef28120.js.map",
-    "static/css/2.de424728.chunk.css": "/stockapp/static/css/2.de424728.chunk.css",
-    "static/js/2.5456ae6d.chunk.js": "/stockapp/static/js/2.5456ae6d.chunk.js",
-    "static/js/2.5456ae6d.chunk.js.map": "/stockapp/static/js/2.5456ae6d.chunk.js.map",
-    "index.html": "/stockapp/index.html",
-    "precache-manifest.640fa5fa22da62b7d9ae942dc6bc75c8.js": "/stockapp/precache-manifest.640fa5fa22da62b7d9ae942dc6bc75c8.js",
-    "service-worker.js": "/stockapp/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/stockapp/static/css/2.de424728.chunk.css.map",
-    "static/js/2.5456ae6d.chunk.js.LICENSE.txt": "/stockapp/static/js/2.5456ae6d.chunk.js.LICENSE.txt",
-    "static/media/rsz_stockapp_logo_transparent.png": "/stockapp/static/media/rsz_stockapp_logo_transparent.bcf1d693.png",
-    "static/media/slajd1.png": "/stockapp/static/media/slajd1.a662f929.png",
-    "static/media/slajd2.png": "/stockapp/static/media/slajd2.ff66a1d9.png",
-    "static/media/slajd3.png": "/stockapp/static/media/slajd3.a2d2f6a4.png",
-    "static/media/slajd4.png": "/stockapp/static/media/slajd4.6101070d.png"
+    "main.js": "/StockApp/static/js/main.28175e37.chunk.js",
+    "main.js.map": "/StockApp/static/js/main.28175e37.chunk.js.map",
+    "runtime-main.js": "/StockApp/static/js/runtime-main.206a66e1.js",
+    "runtime-main.js.map": "/StockApp/static/js/runtime-main.206a66e1.js.map",
+    "static/css/2.de424728.chunk.css": "/StockApp/static/css/2.de424728.chunk.css",
+    "static/js/2.5456ae6d.chunk.js": "/StockApp/static/js/2.5456ae6d.chunk.js",
+    "static/js/2.5456ae6d.chunk.js.map": "/StockApp/static/js/2.5456ae6d.chunk.js.map",
+    "index.html": "/StockApp/index.html",
+    "precache-manifest.ff486db2a1079132d5729383f595427d.js": "/StockApp/precache-manifest.ff486db2a1079132d5729383f595427d.js",
+    "service-worker.js": "/StockApp/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/StockApp/static/css/2.de424728.chunk.css.map",
+    "static/js/2.5456ae6d.chunk.js.LICENSE.txt": "/StockApp/static/js/2.5456ae6d.chunk.js.LICENSE.txt",
+    "static/media/rsz_stockapp_logo_transparent.png": "/StockApp/static/media/rsz_stockapp_logo_transparent.bcf1d693.png",
+    "static/media/slajd1.png": "/StockApp/static/media/slajd1.a662f929.png",
+    "static/media/slajd2.png": "/StockApp/static/media/slajd2.ff66a1d9.png",
+    "static/media/slajd3.png": "/StockApp/static/media/slajd3.a2d2f6a4.png",
+    "static/media/slajd4.png": "/StockApp/static/media/slajd4.6101070d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ef28120.js",
+    "static/js/runtime-main.206a66e1.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.5456ae6d.chunk.js",
-    "static/js/main.8a0a9fea.chunk.js"
+    "static/js/main.28175e37.chunk.js"
   ]
 }
