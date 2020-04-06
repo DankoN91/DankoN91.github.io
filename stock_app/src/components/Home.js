@@ -170,7 +170,7 @@ class Home extends React.Component {
                         <div className="row">
                             <div className="col-md-2"></div>
                             <div className="col-md-6">
-                                <p>Welcome, user!</p>
+                                
                             </div>
                             <div className="col-md-4">
                                 <Link onClick={()=>{window.localStorage.removeItem("stockAppToken")}}> Log Out</Link>
