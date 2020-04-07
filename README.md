@@ -1,5 +1,5 @@
 # StockApp
-Zavrsni projekat za ITBootcamp
+Zavrsni projekat za ITBootcamp. Dostupan na https://dankon91.github.io
 
 StockAPP je aplikacija za praćenje podataka sa berze, kao i za ispisivanje aktuelnih finansijskih vesti.
 Koristi podatke povučene sa API veb-sajta www.finnhub.io, kako za podatke o akcijama kompanija, tako i
